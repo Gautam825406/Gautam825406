@@ -70,8 +70,11 @@ I have hands-on experience in **data handling, analysis, and visualization**, an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gautam825406&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gautam825406&show_icons=true&theme=tokyonight)
+
 </p>
+
 
 
 <p align="center">
