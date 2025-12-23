@@ -53,8 +53,8 @@ I have hands-on experience in **data handling, analysis, and visualization**, an
 
 ## 🤝 Connect With Me  
 
-- 💼 LinkedIn: *(add your profile link)*  
-- 📧 Email: *(optional)*  
+- 💼 LinkedIn:   www.linkedin.com/in/gautam-keshri
+- 📧 Email: keshrigautam825406@gmail.com  
 
 I’m always open to **internships, projects, and collaborative learning opportunities** in Data Analysis, Data Science, and AI.
 
