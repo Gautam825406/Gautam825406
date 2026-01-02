@@ -71,8 +71,17 @@ I have hands-on experience in **data handling, analysis, and visualization**, an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gautam825406&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Gautam825406&theme=tokyonight" height="165"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Gautam825406&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Gautam825406&theme=tokyonight"
+    alt="GitHub Streak"
+  />
 </p>
 
 
