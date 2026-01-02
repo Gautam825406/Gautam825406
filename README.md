@@ -72,14 +72,14 @@ I have hands-on experience in **data handling, analysis, and visualization**, an
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Gautam825406&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=Gautam825406&show_icons=true&theme=tokyonight&cache_seconds=86400"
     alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Gautam825406&theme=tokyonight"
+    src="https://streak-stats.demolab.com?user=Gautam825406&theme=tokyonight&cache_seconds=86400"
     alt="GitHub Streak"
   />
 </p>
