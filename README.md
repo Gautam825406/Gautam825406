@@ -1,18 +1,18 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Gautam%20Keshri&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Gautam%20Keshri&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Analytics&descAlignY=55&descSize=18" />
 </p>
 
 <!-- ===================== TYPING ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Data+Analyst;Data+Science+%26+AI+Student;Machine+Learning+Enthusiast;Turning+Data+into+Insights;B.Sc.+(Hons)+DS+%26+AI+%7C+IIT+Guwahati" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Data+Analyst;Data+Science+%26+AI+Student;Machine+Learning+Enthusiast;Turning+Raw+Data+into+Business+Insights;B.Sc.+(Hons)+DS+%26+AI+%7C+IIT+Guwahati" />
 </p>
 
-<!-- ===================== BADGES ===================== -->
+<!-- ===================== PROFILE BADGES ===================== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science-Expertise-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Active-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20to%20Internships-orange?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Gautam825406&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Science-orange?style=for-the-badge" />
 </p>
 
 ---
@@ -22,14 +22,18 @@
 🎓 **B.Sc. (Hons) – Data Science & Artificial Intelligence**  
 🏛 **Indian Institute of Technology (IIT), Guwahati**
 
+💡 *Aspiring Data Analyst & Data Scientist passionate about data-driven decision making.*
+
 ---
 
 ## 🚀 About Me
 
-I am a **passionate Data Science student** who loves uncovering insights hidden in data.  
-My focus is on **data analysis, machine learning, and real-world problem solving**, transforming raw datasets into **clear, actionable insights**.
+I am a **highly motivated Data Science student** with a strong interest in **analytics, machine learning, and AI-powered solutions**.  
+I enjoy solving real-world problems by converting complex datasets into **meaningful insights, dashboards, and predictive models**.
 
-I actively build projects, dashboards, and analytical models while continuously improving my technical and business understanding.
+🔹 Strong foundation in statistics & EDA  
+🔹 Hands-on experience with real datasets  
+🔹 Continuous learner with a growth mindset  
 
 ---
 
@@ -42,24 +46,47 @@ I actively build projects, dashboards, and analytical models while continuously 
 
 - **Python | SQL | Excel | Power BI**  
 - Pandas, NumPy, Matplotlib, Seaborn  
-- Data Cleaning, EDA, Dashboarding  
+- Data Cleaning, EDA, KPI Tracking  
+- Interactive Dashboards & Reports  
 
 ### 🤖 Data Science & Machine Learning
 - Statistics & Hypothesis Testing  
 - Supervised & Unsupervised Learning  
 - Feature Engineering & Model Evaluation  
-- Real-world case studies  
+- Real-world ML Case Studies  
 
 ---
 
-## 📂 Projects Snapshot
+## 🧰 Tools & Platforms
 
-✔ Exploratory Data Analysis (EDA) on real-world datasets  
-✔ Data cleaning, preprocessing & feature engineering  
-✔ Predictive modeling & ML pipelines  
-✔ Business-oriented dashboards & reports  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
 
-📌 *Check my repositories for detailed notebooks, SQL queries, and dashboards.*
+- Git & GitHub (Version Control)  
+- VS Code, Jupyter Notebook  
+- Kaggle (Practice & Datasets)  
+
+---
+
+## 📂 Featured Project Work
+
+✔ **Exploratory Data Analysis (EDA)** on business & healthcare datasets  
+✔ **SQL-based analysis** for sales & customer insights  
+✔ **Machine Learning models** for prediction & classification  
+✔ **Power BI dashboards** for business reporting  
+
+📌 *Each project follows a complete data lifecycle:*
+> Data Collection → Cleaning → Analysis → Visualization → Insights
+
+---
+
+## 🏆 Achievements & Highlights
+
+- Completed multiple **end-to-end analytics projects**
+- Strong understanding of **business-oriented data problems**
+- Consistent GitHub activity & structured repositories  
+- Actively preparing for **Data Analyst / Data Science roles**
 
 ---
 
@@ -73,13 +100,14 @@ I actively build projects, dashboards, and analytical models while continuously 
 
 ## 🌱 Currently Learning
 
-- Advanced Machine Learning  
-- Deep Learning fundamentals  
-- Business analytics & decision-making with data  
+- Advanced Machine Learning Algorithms  
+- Deep Learning Fundamentals  
+- Business Case Studies with Data  
+- Interview-focused SQL & Python  
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Performance
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gautam825406&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -87,6 +115,10 @@ I actively build projects, dashboards, and analytical models while continuously 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Gautam825406&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam825406&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -101,4 +133,4 @@ I actively build projects, dashboards, and analytical models while continuously 
 
 ---
 
-⭐ **If you like my work, don’t forget to explore my repositories and connect with me!**
+⭐ **If you like my work, feel free to explore my repositories, star ⭐ them, and connect with me!**
