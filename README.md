@@ -1,116 +1,110 @@
-<!-- ===================== BANNER ===================== -->
+<!-- ===================== ANIMATED HERO BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Gautam%20Keshri&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Analytics&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,40:203a43,70:2c5364,100:38bdf8&height=260&section=header&text=Gautam%20Keshri&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Science%20•%20Machine%20Learning%20•%20Analytics&descAlignY=55&descSize=18" />
 </p>
 
-<!-- ===================== TYPING ===================== -->
+<!-- ===================== ANIMATED TYPING ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Data+Analyst;Data+Science+%26+AI+Student;Machine+Learning+Enthusiast;Turning+Raw+Data+into+Business+Insights;B.Sc.+(Hons)+DS+%26+AI+%7C+IIT+Guwahati" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst;Data+Science+%26+AI+Student;Machine+Learning+Enthusiast;Turning+Data+into+Business+Insights;B.Sc.+(Hons)+DS+%26+AI+%7C+IIT+Guwahati" />
 </p>
 
-<!-- ===================== PROFILE BADGES ===================== -->
+<!-- ===================== FLOATING BADGES ===================== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gautam825406&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Science-orange?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Gautam825406&style=for-the-badge&color=38bdf8" />
+  <img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-Data%20Scientist-informational?style=for-the-badge" />
 </p>
 
 ---
 
-## 👋 Hi, I’m **Gautam Keshri**
+## 👋 Hey there, I’m **Gautam Keshri** 👨‍💻
 
 🎓 **B.Sc. (Hons) – Data Science & Artificial Intelligence**  
 🏛 **Indian Institute of Technology (IIT), Guwahati**
 
-💡 *Aspiring Data Analyst & Data Scientist passionate about data-driven decision making.*
+✨ *I analyze data, build models, and transform numbers into stories that drive decisions.*
 
 ---
 
 ## 🚀 About Me
 
-I am a **highly motivated Data Science student** with a strong interest in **analytics, machine learning, and AI-powered solutions**.  
-I enjoy solving real-world problems by converting complex datasets into **meaningful insights, dashboards, and predictive models**.
+🔹 Passionate about **Data Analytics, Machine Learning & AI**  
+🔹 Love working with **real-world messy datasets**  
+🔹 Strong focus on **business impact & insights**  
 
-🔹 Strong foundation in statistics & EDA  
-🔹 Hands-on experience with real datasets  
-🔹 Continuous learner with a growth mindset  
+💡 I believe **data is powerful only when it tells a clear story** — that’s what I aim to do through dashboards, models, and analytics.
 
 ---
 
-## 🧠 Technical Skills
+## 🧠 Tech Stack & Skills
 
 ### 📊 Data Analysis & Visualization
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,excel" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,excel,powerbi&perline=4" />
 </p>
 
-- **Python | SQL | Excel | Power BI**  
-- Pandas, NumPy, Matplotlib, Seaborn  
-- Data Cleaning, EDA, KPI Tracking  
-- Interactive Dashboards & Reports  
+- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- SQL (Joins, Subqueries, Window Functions)  
+- Excel (Pivot Tables, Dashboards)  
+- Power BI (Interactive Business Dashboards)  
 
-### 🤖 Data Science & Machine Learning
-- Statistics & Hypothesis Testing  
+### 🤖 Machine Learning
 - Supervised & Unsupervised Learning  
 - Feature Engineering & Model Evaluation  
-- Real-world ML Case Studies  
+- Statistics & Hypothesis Testing  
 
 ---
 
-## 🧰 Tools & Platforms
+## ⚙️ Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,kaggle&perline=5" />
 </p>
 
-- Git & GitHub (Version Control)  
-- VS Code, Jupyter Notebook  
-- Kaggle (Practice & Datasets)  
+---
+
+## 📂 Featured Work (What I Actually Do)
+
+✔ End-to-end **EDA projects**  
+✔ SQL-driven **business insights**  
+✔ ML models for **prediction & classification**  
+✔ Power BI **executive dashboards**
+
+📌 **Workflow I follow:**
+> Data → Cleaning → Analysis → Visualization → Insight → Impact
 
 ---
 
-## 📂 Featured Project Work
+## 🏆 Highlights
 
-✔ **Exploratory Data Analysis (EDA)** on business & healthcare datasets  
-✔ **SQL-based analysis** for sales & customer insights  
-✔ **Machine Learning models** for prediction & classification  
-✔ **Power BI dashboards** for business reporting  
-
-📌 *Each project follows a complete data lifecycle:*
-> Data Collection → Cleaning → Analysis → Visualization → Insights
+🏅 Multiple hands-on analytics & ML projects  
+📊 Strong understanding of business KPIs  
+📁 Clean, well-documented GitHub repositories  
+📈 Consistent learner & contributor  
 
 ---
 
-## 🏆 Achievements & Highlights
+## 🎯 Career Goals
 
-- Completed multiple **end-to-end analytics projects**
-- Strong understanding of **business-oriented data problems**
-- Consistent GitHub activity & structured repositories  
-- Actively preparing for **Data Analyst / Data Science roles**
-
----
-
-## 🎯 Career Interests
-
-- 📌 Data Analyst Intern  
-- 📌 Data Science Intern  
-- 📌 Junior Data Scientist  
+- 🔍 Data Analyst Intern  
+- 🤖 Data Science Intern  
+- 🚀 Junior Data Scientist  
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Exploring
 
-- Advanced Machine Learning Algorithms  
-- Deep Learning Fundamentals  
-- Business Case Studies with Data  
-- Interview-focused SQL & Python  
+- Advanced Machine Learning  
+- Deep Learning basics  
+- Case-based analytics interviews  
+- SQL & Python optimization  
 
 ---
 
-## 📊 GitHub Performance
+## 📊 GitHub in Motion 📈
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gautam825406&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gautam825406&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 </p>
 
 <p align="center">
@@ -121,9 +115,14 @@ I enjoy solving real-world problems by converting complex datasets into **meanin
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam825406&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<!-- ===================== ACTIVITY GRAPH ===================== -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gautam825406&theme=tokyo-night&hide_border=true" />
+</p>
+
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let’s Connect & Collaborate
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gautam-keshri">
@@ -133,4 +132,6 @@ I enjoy solving real-world problems by converting complex datasets into **meanin
 
 ---
 
-⭐ **If you like my work, feel free to explore my repositories, star ⭐ them, and connect with me!**
+⭐ **Like what you see?**  
+⭐ **Star my repos • Fork • Connect • Collaborate**  
+🚀 *Let’s build something impactful with data!*
