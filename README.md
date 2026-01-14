@@ -248,7 +248,7 @@ graph LR
 <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%"/>
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
-## 🚀 Featured Projects
+<!--  ## 🚀 Featured Projects
 
 <div align="center">
 
@@ -259,7 +259,7 @@ graph LR
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gautam825406&repo=A-Hospital-Database-Migration-Automation-System&theme=tokyonight&hide_border=true)](https://github.com/Gautam825406/A-Hospital-Database-Migration-Automation-System)
 
 </div>
-
+  -->
 <!-- ===================== CONNECT WITH ME ===================== -->
 ## 🤝 Let's Connect & Collaborate
 
