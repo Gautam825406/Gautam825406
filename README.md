@@ -252,12 +252,14 @@ graph LR
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gautam825406&repo=DA-Global-Cancer-Data-Analysis&theme=tokyonight&hide_border=true)](https://github.com/Gautam825406)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gautam825406&repo=sales-analytics-dashboard&theme=tokyonight&hide_border=true)](https://github.com/Gautam825406)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gautam825406&repo=housing-price-prediction&theme=tokyonight&hide_border=true)](https://github.com/Gautam825406)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gautam825406&repo=sentiment-analysis-nlp&theme=tokyonight&hide_border=true)](https://github.com/Gautam825406)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gautam825406&repo=DA-pizza_sales_analysis-SQL-&theme=tokyonight&hide_border=true)](https://github.com/Gautam825406/DA-pizza_sales_analysis-SQL-)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gautam825406&repo=DA-Customer_Shopping_Behavior_Analysis&theme=tokyonight&hide_border=true)](https://github.com/Gautam825406/DA-Customer_Shopping_Behavior_Analysis)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gautam825406&repo=A-Hospital-Database-Migration-Automation-System&theme=tokyonight&hide_border=true)](https://github.com/Gautam825406/A-Hospital-Database-Migration-Automation-System)
 
 </div>
+>
 
 <!-- ===================== CONNECT WITH ME ===================== -->
 ## 🤝 Let's Connect & Collaborate
@@ -266,13 +268,13 @@ graph LR
   <a href="https://www.linkedin.com/in/gautam-keshri">
     <img src="https://img.shields.io/badge/LinkedIn-Gautam%20Keshri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
   </a>
-  <a href="mailto:gautam.keshri@example.com">
+  <a href="mailto:gautam.keshrigautam825406.com">
     <img src="https://img.shields.io/badge/Email-gautam.keshri-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
   </a>
   <a href="https://github.com/Gautam825406">
     <img src="https://img.shields.io/badge/GitHub-Gautam825406-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
   </a>
-  <a href="https://kaggle.com/gautamkeshri">
+  <a href="https://www.kaggle.com/keshrigautam2000">
     <img src="https://img.shields.io/badge/Kaggle-gautamkeshri-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=20BEFF"/>
   </a>
 </p>
