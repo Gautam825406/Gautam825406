@@ -252,7 +252,7 @@ graph LR
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gautam825406&repo=customer-churn-prediction&theme=tokyonight&hide_border=true)](https://github.com/Gautam825406)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gautam825406&repo=DA-Global-Cancer-Data-Analysis&theme=tokyonight&hide_border=true)](https://github.com/Gautam825406)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gautam825406&repo=sales-analytics-dashboard&theme=tokyonight&hide_border=true)](https://github.com/Gautam825406)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gautam825406&repo=housing-price-prediction&theme=tokyonight&hide_border=true)](https://github.com/Gautam825406)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gautam825406&repo=sentiment-analysis-nlp&theme=tokyonight&hide_border=true)](https://github.com/Gautam825406)
