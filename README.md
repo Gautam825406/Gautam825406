@@ -71,7 +71,7 @@ Tech stack
 
 <div align="center">
 
-AI, ML & Data
+AI, ML & Data Science
 
 
 
