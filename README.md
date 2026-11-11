@@ -18,6 +18,8 @@
 
 > 🎯 Final-year Data Science & AI student turning ideas into working Generative AI products — RAG chatbots, agentic workflows, and full-stack AI apps that actually ship.
 
+**🔴 Live demos:** [IncidentPilot](https://incidentpilot-ten.vercel.app/) · [RegLens](https://reglens-chi.vercel.app/) · [U++ Academy](https://u-academy-zeta.vercel.app/)
+
 </div>
 
 ---
@@ -56,6 +58,47 @@
 ---
 
 ## 📌 Featured Projects
+
+### 🚨 IncidentPilot — Multi-Agent Production Incident Resolver ⭐ Flagship
+> When production breaks, IncidentPilot investigates like an SRE, proves what it found with evidence, waits for human approval, executes only an allow-listed fix, and verifies recovery — then writes the postmortem.
+>
+> 🔴 **Live:** [incidentpilot-ten.vercel.app](https://incidentpilot-ten.vercel.app/) · [Source](https://github.com/Gautam825406/incidentpilot)
+>
+> **Measured (live, Groq `openai/gpt-oss-120b`, 11 Nov 2026):** 193 backend tests pass · live eval semantic top-1 5/5, abstention 1/1, evidence 1.0, unsafe 0 · multi-tenant SaaS with per-org encrypted credentials.
+>
+> `Python · FastAPI · LangGraph · Groq · PostgreSQL · React · TypeScript · Docker`
+
+### ⚖️ RegLens — Grounded GraphRAG for Contracts & Compliance ⭐ Flagship
+> Understand every clause. Trust every answer. RegLens answers contract questions only with clause-level citations — and honestly abstains when the evidence is not in the documents.
+>
+> 🔴 **Live:** [reglens-chi.vercel.app](https://reglens-chi.vercel.app/) · [Source](https://github.com/Gautam825406/reglens)
+>
+> **Measured (48-case golden set, 11 Nov 2026):** recall@5 0.897 · faithfulness 0.974 · correct abstention 9/9.
+>
+> `Python · FastAPI · GraphRAG · Hybrid Retrieval · PostgreSQL · React · TypeScript · Docker`
+
+### 🔎 QueryPilot — Trusted Text-to-SQL Analytics Agent
+> Ask a business question in plain English and get a validated, read-only SQL result with a chart and a plain-English explanation. SQL is checked with a real parser before it runs, and self-corrected from real database errors.
+>
+> [Source](https://github.com/Gautam825406/querypilot)
+>
+> **Measured (50-case golden set, 11 Nov 2026):** execution accuracy 100% (50/50) · safety suite 11/11 blocked · 56 backend tests pass.
+>
+> `Python · FastAPI · LangGraph · sqlglot · DuckDB · PostgreSQL · React`
+
+### 🛡️ CodeSentry — Agentic Secure Code Review + Codebase RAG
+> Indexes a repository by its structure — AST symbols and a call graph, not raw text — reviews PR diffs with full codebase context, and posts only evidence-cited, confidence-filtered findings.
+>
+> [Source](https://github.com/Gautam825406/codesentry)
+>
+> `Python · FastAPI · LangGraph · tree-sitter · Graph Retrieval · GitHub Checks`
+
+### 🎓 U++ Academy — Live Tuition & Coaching Platform
+> Real production LMS for Classes 6–12 — batches, lectures, tests, fees and receipts, with Cashfree pay-and-enrol for real students.
+>
+> 🔴 **Live:** [u-academy-zeta.vercel.app](https://u-academy-zeta.vercel.app/) · [Source](https://github.com/Gautam825406/u-academy)
+>
+> `Next.js · TypeScript · Supabase · PostgreSQL · Cashfree`
 
 ### ✍️ ContentForge AI — AI Content Generation Platform
 > Topics and transcripts → structured articles, with configurable tone, audience, and length.
