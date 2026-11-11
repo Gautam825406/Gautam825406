@@ -64,7 +64,7 @@
 >
 > 🔴 **Live:** [incidentpilot-ten.vercel.app](https://incidentpilot-ten.vercel.app/) · [Source](https://github.com/Gautam825406/incidentpilot)
 >
-> **Measured (live, Groq `openai/gpt-oss-120b`, 11 Nov 2026):** 193 backend tests pass · live eval semantic top-1 5/5, abstention 1/1, evidence 1.0, unsafe 0 · multi-tenant SaaS with per-org encrypted credentials.
+> **Measured (live, Groq `openai/gpt-oss-120b`, 11 Nov 2026):** 220 backend tests pass · live eval semantic top-1 5/5, abstention 1/1, evidence 1.0, unsafe 0 · multi-tenant SaaS with per-org encrypted credentials.
 >
 > `Python · FastAPI · LangGraph · Groq · PostgreSQL · React · TypeScript · Docker`
 
